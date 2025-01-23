@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
+
 participant_No = '1';
 
 path_name = ['D:\Liam Passport v2\Study 3\data\amputee\P001\EXT\'];
