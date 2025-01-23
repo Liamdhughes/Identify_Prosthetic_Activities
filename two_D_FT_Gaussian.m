@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
+
 function y = two_D_FT_Gaussian(track,MF,TR,SR,FWHM);
 
 
