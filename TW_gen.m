@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
+
 function [T,W] = TW_gen(X,group)
 % [T,W] = TW_gen(X,group)
 % Generates the T and W matrices used in DISCRIMINANT FUNCTION ANALYSIS
