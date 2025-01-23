@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
+
 function y = Spectrogram_revised_by_Martin_Gaussian(sound,Multiplicateur,S_R,s_l,FWHM)
 
 % this function expects the raw sound, the additional density of spectra,
