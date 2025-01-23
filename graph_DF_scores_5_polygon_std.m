@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
+
 function y = graph_scores_5_polygon(scores, DFA_scores, A, B, boundaries)
     % Calculate overall min and max for x and y
     overall_min_x = min(DFA_scores(:,1));
