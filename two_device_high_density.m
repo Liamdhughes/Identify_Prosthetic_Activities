@@ -1,3 +1,4 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2025
 clear
 close all
 
@@ -6,7 +7,7 @@ Disk_Letter_Name = 'D';
 
 path(path,[Disk_Letter_Name,':\Liam Passport\Study 3\data\Useful_Matlab_Functions']);
 
-% This code builds a training data base of 30 2DFT's per sensor, per
+% This code builds a training data base of 500 2DFT's per sensor, per
 % individual, so as to train the algorithm sensor by sensor, for one
 % specific individual:
 Individual_No_array = ['01'];
